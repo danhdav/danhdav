@@ -1,13 +1,10 @@
 # About Me
+Everything is on my [website](https://danhdav.github.io/).
 
-I'm an avid tech enthusiast and user of free and open source software.
-Some of my dotfiles and other repositories can be found on [Codeberg](https://codeberg.org/danhdav).
-
-# Contact Me
-I’m not on Twitter, I’m not on Facebook, I’m not on Reddit, I’m not on Snapchat, etc. Self-hosting is the long term vision in mind.
-
-**Email**: danielhori@posteo.net
-
+Some stuff I have been doing lately:
+- Hugo Web Development
+- Shell scripting
+- Computer Vision
 
 <!--
 **danhdav/danhdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
