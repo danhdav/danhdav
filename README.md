@@ -1,11 +1,6 @@
 # About Me
 Everything is on my [website](https://danhdav.github.io/).
 
-Some stuff I have been doing lately:
-- Hugo Web Development
-- Shell scripting
-- Computer Vision
-
 <!--
 **danhdav/danhdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
